@@ -1,0 +1,32 @@
+{
+  "name": "fileproof-prototype",
+  "version": "0.1.2",
+  "description": "Prototype smart-contract and application logic for the FileProof protocol",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "Amit Deshmukh",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.0",
+    "firebase": "^5.3.1",
+    "truffle-contract": "^3.0.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FileProof/FileProof-Prototype.git"
+  },
+  "keywords": [
+    "fileproof",
+    "protocol"
+  ],
+  "bugs": {
+    "url": "https://github.com/FileProof/FileProof-Prototype/issues"
+  },
+  "homepage": "https://github.com/FileProof/FileProof-Prototype#readme",
+  "main": "app.js"
+}
